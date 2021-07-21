@@ -23,6 +23,7 @@ public class Stepdefinition {
 		System.out.println("user logs in to  application with  password  "+strArg2);
 		System.out.println("one-making changes from different machine");
 		System.out.println("two-making changes from different machine");
+		System.out.println("three-making changes from different machine");
     }
 	
 	
