@@ -26,6 +26,7 @@ public class Stepdefinition {
 		System.out.println("three-making changes from different machine");
 		System.out.println("four-making changes from different machine");
 		System.out.println("five-making changes from different machine");
+		System.out.println("six-making changes from different machine");
     }
 	
 	
