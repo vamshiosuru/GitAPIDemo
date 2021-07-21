@@ -21,6 +21,8 @@ public class Stepdefinition {
     public void user_logs_in_to_application_with_username_something_password_something(String strArg1, String strArg2) throws Throwable {
 		System.out.println("user logs in to  application with username  "+strArg1);
 		System.out.println("user logs in to  application with  password  "+strArg2);
+		System.out.println("one-making changes from different machine");
+		System.out.println("two-making changes from different machine");
     }
 	
 	
