@@ -36,11 +36,14 @@ public class Stepdefinition {
 	public void homepage_is_populated() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
 		System.out.println("homepage is populated");
+		System.out.println("homepage is populated");
+		System.out.println("homepage is populated");
 	}
 
 	@And("^cards are displayed$")
 	public void cards_are_displayed() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
+		System.out.println("cards are displayed");
 		System.out.println("cards are displayed");
 	}
 
