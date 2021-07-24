@@ -28,6 +28,7 @@ public class Stepdefinition {
 		System.out.println("five-making changes from different machine");
 		System.out.println("six-making changes from different machine");
 		System.out.println("seven-making changes from different machine");
+		System.out.println("eight-making changes from different machine");
     }
 	
 	
@@ -43,7 +44,6 @@ public class Stepdefinition {
 	@And("^cards are displayed$")
 	public void cards_are_displayed() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
-		System.out.println("cards are displayed");
 		System.out.println("cards are displayed");
 		System.out.println("cards are displayed");
 	}
